@@ -4,8 +4,6 @@ def findElementRow(numRows, i, divider):
     if x <= underElementIndex:
         return x
     return underElementIndex - x + underElementIndex
-    
-
 
 
 class Solution:
@@ -16,15 +14,13 @@ class Solution:
         rows_dict = dict()
         for i in range(numRows):
             rows_dict[i] = list()
-        
+
         for i in range(len(s)):
             index = findElementRow(numRows, i, divider)
             rows_dict[index].append(s[i])
-        
+
         answer = list()
         for i in range(numRows):
             answer.extend(rows_dict[i])
-        answer ="".join(answer)
-        return answer         
-            
-        
+        answer = "".join(answer)
+        return answer
