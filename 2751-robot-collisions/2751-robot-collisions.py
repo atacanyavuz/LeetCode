@@ -25,6 +25,7 @@ def calculateCollisions(resultStack, bumperElement):
                 return resultStack
         else:
             resultStack.append(bumperElement)
+            return resultStack
     return [bumperElement]
 
 
