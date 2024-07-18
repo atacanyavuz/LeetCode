@@ -13,10 +13,10 @@ class Solution:
                 return {}
             if root.left is None and root.right is None:
                 return {1: 1}
-            
-            lhNodes = solve(root.left)            
+
+            lhNodes = solve(root.left)
             rhNodes = solve(root.right)
-            
+
             for leftNodeHeight in lhNodes:
                 for rightNodeHeight in rhNodes:
                     if leftNodeHeight + rightNodeHeight <= distance:
@@ -28,7 +28,7 @@ class Solution:
                     nhNodes[key + 1] = lhNodes[key]
             for key in rhNodes:
                 if key < distance:
-                    nhNodes[key + 1] = nhNodes.get(key + 1, 0) + rhNodes[key]                    
+                    nhNodes[key + 1] = nhNodes.get(key + 1, 0) + rhNodes[key]
 
             return nhNodes
 
