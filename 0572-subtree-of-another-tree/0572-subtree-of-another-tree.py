@@ -22,4 +22,3 @@ class Solution:
         if self.sameTree(root, subRoot):
             return True
         return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
-    
