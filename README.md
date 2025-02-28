@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/atacanyavuz/LeetCode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/atacanyavuz/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/atacanyavuz/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/atacanyavuz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/atacanyavuz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/atacanyavuz/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
