@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/atacanyavuz/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atacanyavuz/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/atacanyavuz/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/atacanyavuz/LeetCode/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/atacanyavuz/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
