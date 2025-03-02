@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atacanyavuz/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atacanyavuz/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/atacanyavuz/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/atacanyavuz/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atacanyavuz/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/atacanyavuz/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/atacanyavuz/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/atacanyavuz/LeetCode/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/atacanyavuz/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/atacanyavuz/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |
