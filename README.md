@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/atacanyavuz/LeetCode/tree/master/0169-majority-element) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atacanyavuz/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atacanyavuz/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/atacanyavuz/LeetCode/tree/master/0071-simplify-path) |
 ## Two Pointers
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atacanyavuz/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
