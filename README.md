@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/atacanyavuz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/atacanyavuz/LeetCode/tree/master/0169-majority-element) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atacanyavuz/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/atacanyavuz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/atacanyavuz/LeetCode/tree/master/0071-simplify-path) |
 ## Two Pointers
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/atacanyavuz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/atacanyavuz/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/atacanyavuz/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
