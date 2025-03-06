@@ -16,15 +16,15 @@ class Solution {
     }
 
     public String intToRoman(int num) {
-        StringBuffer stringBuffer = new StringBuffer();
+        StringBuilder result = new StringBuilder();
         LinkedHashMap<Integer, String> romanMap = new LinkedHashMap<>();
         fillRomanMap(romanMap);
         for (int key : romanMap.sequencedKeySet()) {
             while (num >= key) {
-                stringBuffer.append(romanMap.get(key));
+                result.append(romanMap.get(key));
                 num = num - key;
             }
         }
-        return stringBuffer.toString();
+        return result.toString();
     }
 }
