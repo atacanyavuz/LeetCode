@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/atacanyavuz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/atacanyavuz/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/atacanyavuz/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/atacanyavuz/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/atacanyavuz/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/atacanyavuz/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/atacanyavuz/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
