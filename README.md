@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/atacanyavuz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/atacanyavuz/LeetCode/tree/master/0071-simplify-path) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/atacanyavuz/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/atacanyavuz/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/atacanyavuz/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Number Theory
 |  |
 | ------- |
