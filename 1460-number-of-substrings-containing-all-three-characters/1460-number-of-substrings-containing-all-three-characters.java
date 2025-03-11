@@ -32,11 +32,10 @@ class Solution {
         int rightIndex = 0;
         while (true) {
             System.out.println(charCounter[0] + "-" + charCounter[1] + "-" + charCounter[2] );
-            if (controlCounter()) {
+            while (controlCounter()) {
                 totalNumber += (s.length() - (rightIndex) + 1);
                 addRemoveCharToCounter(s.charAt(leftIndex), true);
                 leftIndex++;
-                continue;
             }
             if (rightIndex >= s.length()) {
                 break;
