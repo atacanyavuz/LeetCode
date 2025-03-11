@@ -34,13 +34,13 @@ class Solution {
             System.out.println(charCounter[0] + "-" + charCounter[1] + "-" + charCounter[2] );
             while (controlCounter()) {
                 totalNumber += (s.length() - (rightIndex) + 1);
-                addRemoveCharToCounter(s.charAt(leftIndex), true);
+                charCounter[s.charAt(leftIndex) - 'a']--;
                 leftIndex++;
             }
             if (rightIndex >= s.length()) {
                 break;
             }
-            addRemoveCharToCounter(s.charAt(rightIndex), false);
+            charCounter[s.charAt(rightIndex) - 'a']++;
             rightIndex++;
         }
         return totalNumber;
