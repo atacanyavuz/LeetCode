@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/atacanyavuz/LeetCode/tree/master/0169-majority-element) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atacanyavuz/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atacanyavuz/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/atacanyavuz/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/atacanyavuz/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/atacanyavuz/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/atacanyavuz/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/atacanyavuz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atacanyavuz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/atacanyavuz/LeetCode/tree/master/0071-simplify-path) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/atacanyavuz/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/atacanyavuz/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/atacanyavuz/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/atacanyavuz/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/atacanyavuz/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/atacanyavuz/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/atacanyavuz/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/atacanyavuz/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
