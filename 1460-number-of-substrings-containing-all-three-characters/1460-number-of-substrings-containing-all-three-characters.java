@@ -30,17 +30,14 @@ class Solution {
         int totalNumber = 0;
         int leftIndex = 0;
         int rightIndex = 0;
-        while (true) {
+        while (rightIndex < s.length()) {
+            charCounter[s.charAt(rightIndex) - 'a']++;
             System.out.println(charCounter[0] + "-" + charCounter[1] + "-" + charCounter[2] );
             while (controlCounter()) {
-                totalNumber += (s.length() - (rightIndex) + 1);
+                totalNumber += (s.length() - rightIndex);
                 charCounter[s.charAt(leftIndex) - 'a']--;
                 leftIndex++;
             }
-            if (rightIndex >= s.length()) {
-                break;
-            }
-            charCounter[s.charAt(rightIndex) - 'a']++;
             rightIndex++;
         }
         return totalNumber;
