@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/atacanyavuz/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atacanyavuz/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/atacanyavuz/LeetCode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/atacanyavuz/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/atacanyavuz/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/atacanyavuz/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/atacanyavuz/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/atacanyavuz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/atacanyavuz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/atacanyavuz/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/atacanyavuz/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/atacanyavuz/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## String
