@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/atacanyavuz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/atacanyavuz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atacanyavuz/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/atacanyavuz/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atacanyavuz/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/atacanyavuz/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
 | ------- |
@@ -174,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/atacanyavuz/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/atacanyavuz/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/atacanyavuz/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/atacanyavuz/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/atacanyavuz/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
