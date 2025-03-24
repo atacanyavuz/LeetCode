@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/atacanyavuz/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/atacanyavuz/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/atacanyavuz/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/atacanyavuz/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/atacanyavuz/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/atacanyavuz/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/atacanyavuz/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/atacanyavuz/LeetCode/tree/master/0169-majority-element) |
+| [3430-count-days-without-meetings](https://github.com/atacanyavuz/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
 | ------- |
